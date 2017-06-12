@@ -1,10 +1,10 @@
 /**
  * Created by sesha on 6/12/17.
  */
-var DB_NAME = "nyllabs";
-var DB_PASSWORD = "Stig-12345";
-var DB_USER = "nyllabs";
-var DB_HOST = "nyllabs-cluster.cluster-cctdmtbdreik.us-east-1.rds.amazonaws.com";
+var DB_NAME = "******";
+var DB_PASSWORD = "******";;
+var DB_USER = "******";
+var DB_HOST = "******";
 
 var database = {
     DB_NAME : DB_NAME,
