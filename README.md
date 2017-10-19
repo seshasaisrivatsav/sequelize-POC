@@ -14,3 +14,8 @@ Enter Credentials in credentials file
 <img src="http://docs.sequelizejs.com/manual/asset/logo-small.png">
 <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png">
 <img src="http://mean.io/wp-content/themes/twentysixteen-child/images/express.png">
+<div class="row">
+  <div class="col-sm-4">.col-sm-4</div>
+  <div class="col-sm-4">.col-sm-4</div>
+  <div class="col-sm-4">.col-sm-4</div>
+</div>
