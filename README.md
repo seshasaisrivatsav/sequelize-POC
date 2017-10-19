@@ -5,17 +5,29 @@
 <a>http://docs.sequelizejs.com/</p>
 
 <h2>Running the project</h2>
-```
-npm install
-```
-Enter Credentials in credentials file
+<ol>
+    <li>Enter Credentials in credentials file</li>
+    <li>npm run</li>
+    <li>nodemon server.js</li>
+ </ol>
+
 
 
 <img src="http://docs.sequelizejs.com/manual/asset/logo-small.png">
 <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png">
 <img src="http://mean.io/wp-content/themes/twentysixteen-child/images/express.png">
-<div class="row">
-  <div class="col-sm-4">.col-sm-4</div>
-  <div class="col-sm-4">.col-sm-4</div>
-  <div class="col-sm-4">.col-sm-4</div>
-</div>
+ 
+ 
+ 
+
+<h1>Author</h1>
+<p>Sesha Sai Srivatsav Kuchibhotla</p>
+<ul>
+  <li>https://github.com/seshasaisrivatsav/</li>
+  <li>http://www.seshasaisrivatsav.com/</li>
+  <li>https://www.linkedin.com/in/seshasaisrivatsav</li>
+</ul>
+
+
+<h1>License</h1>
+<p><a href="https://github.com/seshasaisrivatsav/srivatsav-resume/blob/master/LICENSE">MIT</a></p>
